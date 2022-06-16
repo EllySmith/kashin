@@ -1,0 +1,8 @@
+body {
+    background-image: repeating-linear-gradient(
+        #white, 30%,
+        #grey;
+    );
+    padding: 50px 130px;
+    
+}
